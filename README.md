@@ -2,7 +2,7 @@
 
 **`Automation | Efficiency | Productivity: Software Engineer`**
 
-As a seasoned Software Engineer hailing from the East Coast, I thrive on turning abstract ideas into tangible solutions. My journey begins with a blank canvas, where I meticulously plan, design, and architect software systems that address real-world challenges. If you’re looking for someone who can architect elegant solutions, debug with precision, and sprinkle a dash of creativity into every line of code, you’ve found your Software Engineer. Let’s build something remarkable together! 🚀
+As a seasoned Software Engineer hailing from the East Coast, I thrive on turning abstract ideas into tangible solutions. My journey begins with a blank canvas, where I meticulously plan, design, and architect software systems that address real-world challenges. If you’re looking for someone who can architect elegant solutions, debug with precision, work in an agile environment, and sprinkle a dash of creativity into every line of code, you’ve found your Software Engineer. Let’s build something remarkable together! 🚀
 
 ### Languages and Tools
 
