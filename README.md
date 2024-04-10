@@ -25,6 +25,10 @@ As a seasoned Software Engineer hailing from the East Coast, I thrive on turning
 
 # 
 
+# My Stats: 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnnytheShark&theme=dark&count_private=true&theme=radical)](https://l.JohnnytheShark.live/github)
+
 <details>
   <summary><h3>Jonathan's Coding Journey 👨🏼‍💻</h3></summary>
 In my final year of college, I embarked on a coding journey that would shape my professional trajectory. Armed with a Bachelor of Business Administration (BBA) and a major in Finance, I found myself drawn to the challenge of streamlining financial data processing. The repetitive nature of report creation during my internship at Norfolk Southern sparked my curiosity. How could I expedite these tasks?
