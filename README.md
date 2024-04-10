@@ -22,10 +22,11 @@ As a seasoned Software Engineer hailing from the East Coast, I thrive on turning
 <img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<br/>
 
 # 
 
-# My Stats: 
+### My Stats: 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JohnnytheShark&theme=dark&count_private=true&theme=radical)](https://l.JohnnytheShark.live/github)
 
